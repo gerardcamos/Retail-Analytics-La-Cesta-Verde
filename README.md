@@ -2,7 +2,7 @@
 
 ![Analítica de Datos](https://img.shields.io/badge/Focus-Data_Analysis-green) 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue) 
-![Python](https://img.shields.io/badge/Python-Pandas-yellow) 
+![Python](https://img.shields.io/badge/Python-GoogleColab-yellow) 
 ![Power BI](https://img.shields.io/badge/BI-Power_BI-orange)
 
 ## 📋 Resumen Ejecutivo
@@ -44,8 +44,8 @@ Este proyecto analiza una facturación de **39,8M €** y más de **2 millones d
 **Gerard Camós Moratalla**
 *Business & Data Analyst*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](TU_LINK_DE_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:tuemail@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gerardcam%C3%B3s/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](gerardcm8@gmail.com)
 
 ---
 *Nota: Debido al tamaño de la base de datos original (414 MB), el archivo .db no se encuentra en este repositorio, pero los resultados están pre-renderizados en el Notebook de Python y en el Informe PDF.*
