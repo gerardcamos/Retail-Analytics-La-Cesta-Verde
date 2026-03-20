@@ -1,9 +1,9 @@
 # 🛒 Optimización de Retail: Proyecto "La Cesta Verde"
 
-![Analítica de Datos](https://img.shields.io/badge/Focus-Data_Analysis-green) 
 ![SQL](https://img.shields.io/badge/SQL-SQLite-blue) 
 ![Python](https://img.shields.io/badge/Python-GoogleColab-yellow) 
 ![Power BI](https://img.shields.io/badge/BI-Power_BI-orange)
+![Analítica de Datos](https://img.shields.io/badge/Focus-Excel-green) 
 
 ## 📋 Resumen Ejecutivo
 Este proyecto analiza una facturación de **39,8M €** y más de **2 millones de transacciones** para la distribuidora "La Cesta Verde". El objetivo principal fue diagnosticar una caída crítica del 82% en los ingresos anuales y diseñar una estrategia de recuperación basada en modelos de asociación de productos.
