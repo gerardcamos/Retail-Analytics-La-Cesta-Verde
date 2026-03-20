@@ -9,12 +9,16 @@
 Este proyecto analiza una facturación de **39,8M €** y más de **2 millones de transacciones** para la distribuidora "La Cesta Verde". El objetivo principal fue diagnosticar una caída crítica del 82% en los ingresos anuales y diseñar una estrategia de recuperación basada en modelos de asociación de productos.
 
 ---
-### 🎨 Visualización de Datos (Power BI)
+## 🎨 Visualización de Datos (Power BI)
 
 A continuación, una muestra del Dashboard interactivo desarrollado para el análisis:
 
 <p align="center">
   <img src="./Dashboard/P1_LCV.jpg" alt="Dashboard General La Cesta Verde - Página 1" width="850">
+</p>
+
+<p align="center">
+  <img src="./Dashboard/P2_LCV.jpg" alt="Dashboard General La Cesta Verde - Página 1" width="850">
 </p>
 
 ---
