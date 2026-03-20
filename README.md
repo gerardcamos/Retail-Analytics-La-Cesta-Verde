@@ -1,6 +1,6 @@
 # 🛒 Optimización de Retail: Proyecto "La Cesta Verde"
 
-![SQL](https://img.shields.io/badge/SQL-SQLite-blue) 
+![SQL](https://img.shields.io/badge/SQL-SQL Online-blue) 
 ![Python](https://img.shields.io/badge/Python-GoogleColab-yellow) 
 ![Power BI](https://img.shields.io/badge/BI-Power_BI-orange)
 ![Analítica de Datos](https://img.shields.io/badge/Analítica-Excel-green) 
@@ -18,8 +18,8 @@ Este proyecto analiza una facturación de **39,8M €** y más de **2 millones d
 ---
 
 ## 🛠️ Stack Tecnológico
-* **SQL (SQLite):** Auditoría financiera, limpieza de datos y análisis de Pareto.
-* **Python (Pandas):** Implementación de *Market Basket Analysis* (Reglas de Asociación).
+* **SQL (SQL Online):** Auditoría financiera, limpieza de datos y análisis de Pareto.
+* **Python (GoogleColab):** Implementación de *Market Basket Analysis* (Reglas de Asociación).
 * **Power BI:** Creación de Dashboards interactivos y grafos de red para visualización de sinergias.
 * **Excel:** Gestión de metadatos y dimensiones de catálogo.
 
