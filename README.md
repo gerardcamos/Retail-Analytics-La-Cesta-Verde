@@ -26,10 +26,11 @@ Este proyecto analiza una facturación de **39,8M €** y más de **2 millones d
 ---
 
 ## 📁 Estructura del Repositorio
-* [📄 **Informe_Ejecutivo.pdf**](./Informe_Final_Gerard_Camos.pdf): Documento de 10 páginas con el análisis de negocio completo. (RECOMENDADO)
-* [📂 **01_SQL/**](./01_SQL/): Scripts de auditoría y extracción de KPIs.
-* [📂 **02_Python/**](./02_Python/): Notebook con el cálculo de métricas de Soporte, Confianza y Lift.
-* [📂 **03_Datasets_Procesados/**](./03_Datasets_Procesados/): Salidas en CSV de los análisis realizados.
+1.  [📄 **1. Análisis de Insights (Preguntas)**](./1.%20Análisis-Insights_Preguntas.pdf): Planteamiento de las hipótesis y objetivos de negocio.
+2.  [📄 **2. Análisis de Insights (Respuestas)**](./2.%20Análisis-Insights_Respuestas.pdf): Resolución técnica de las preguntas de negocio mediante datos.
+3.  [📄 **3. Informe Final del Proyecto**](./3.%20Análisis-ProyectoFinal.pdf): Conclusiones estratégicas, visualizaciones y propuesta de valor.
+4.  [📂 **Código Python (Google Colab)**](./Código_Python-GoogleColab/): Scripts utilizados para el análisis de correlación y afinidad de productos.
+5.  [📂 **Datasets Procesados**](./Datasets_Procesados/): Resultados de las consultas SQL exportados para su análisis posterior.
 
 ---
 
