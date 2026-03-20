@@ -1,6 +1,6 @@
 # 🛒 Optimización de Retail: Proyecto "La Cesta Verde"
 
-![SQL](https://img.shields.io/badge/SQL-SQL Online-blue) 
+![SQL](https://img.shields.io/badge/SQL-SQLOnline-blue) 
 ![Python](https://img.shields.io/badge/Python-GoogleColab-yellow) 
 ![Power BI](https://img.shields.io/badge/BI-Power_BI-orange)
 ![Analítica de Datos](https://img.shields.io/badge/Analítica-Excel-green) 
